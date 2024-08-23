@@ -34,7 +34,7 @@ public class RemoveDuplicatesFromSortedList {
 /**
  * Definition for singly-linked list.
  */
-public class ListNode {
+class ListNode {
     int val;
     ListNode next;
     ListNode() {}
